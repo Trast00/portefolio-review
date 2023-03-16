@@ -334,7 +334,6 @@ li {
 
 .contact h2 {
   margin-bottom: 30px;
-  font-family: 'Inter';
   font-size: 32px;
 }
 
@@ -344,7 +343,8 @@ li {
   flex-direction: column;
 }
 
-.contact-form input, textarea {
+.contact-form input,
+textarea {
   padding: 14px;
   border: none;
   outline: none;
@@ -353,11 +353,11 @@ li {
 }
 
 .contact-form input {
-  border-bottom: 1px solid #DBD8D7;
+  border-bottom: 1px solid #dbd8d7;
 }
 
 .contact-form textarea {
-  background-color: #FBF8F7;
+  background-color: #fbf8f7;
   height: 200px;
 }
 
