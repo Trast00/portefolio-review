@@ -367,3 +367,8 @@ textarea {
   background-color: #ff6b00;
   border: none;
 }
+
+.contact-form button:hover {
+  color: #ff6b00;
+  background-color: white;
+}
